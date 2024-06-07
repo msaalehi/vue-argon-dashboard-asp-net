@@ -54,9 +54,8 @@ If you want to get inspiration or just show something directly to your clients, 
 
 ## Quick start
 
-- [Download from Github](https://github.com/creativetimofficial/vue-argon-dashboard-as-net/archive/main.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/vue-argon-dashboard-asp-net?ref=ada-asp-github-readme).
-- Clone the repo: `git clone https://github.com/creativetimofficial/vue-argon-dashboard.git`.
+
+- Clone the repo: `git clone https://github.com/msaalehi/vue-argon-dashboard.git`.
 - From the project root folder run `docker-compose up --build`. Note that the first time you run this the images will build.
 - Once docker-compose has finished, you will find the projects on the following URLs:
 [Dashboard](http://localhost:8080/admin/dashboard)
@@ -77,9 +76,6 @@ The integration gives you 3 features:
 If you wish to change any of the settings around authentications, please refer to the following files:
 - \IdentityServer\Config.cs
 - \IdentityServer\Startup.cs
-
-## Documentation
-The documentation for the Vue Argon Dashboard Asp.net is hosted at our [website](https://demos.creative-tim.com/vue-argon-dashboard/documentation/#/tutorial?ref=ada-github-readme).
 
 
 ## File Structure
@@ -412,47 +408,9 @@ At present, we officially aim to support the last two versions of the following 
 
 
 
-## Resources
-- Demo: <https://demos.creative-tim.com/vue-argon-dashboard-asp-net/#/dashboard?ref=ada-asp-github-readme>
-- Download Page: <https://www.creative-tim.com/product/vue-argon-dashboard-asp-net?ref=ada-asp-github-readme>
-- Documentation: <https://demos.creative-tim.com/vue-argon-dashboard/documentation/#/tutorial?ref=ada-asp-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=ada-asp-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=ada-asp-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vue-argon-dashboard-asp-net/issues?ref=ada-asp-github-readme)
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Vue Argon Dashboard Asp.net. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=ada-asp-github-readme).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Licensing
 
 - Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=ada-asp-github-readme)
 
 - Licensed under MIT (https://github.com/creativetimofficial/vue-argon-dashboard/blob/master/LICENSE.md)
-
-## Useful Links
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=ada-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=ada-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=ada-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=ada-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=ada-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=ada-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=ada-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=ada-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=ada-github-readme)
-
-### Social Media
-
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
-
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
-
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
